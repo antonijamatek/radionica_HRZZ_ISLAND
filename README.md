@@ -1,5 +1,4 @@
-![image](https://github.com/antonijamatek/workshop_HRZZISLAND/assets/144710084/6af34b0b-b139-48f8-abce-e192c1cc0965)# workshop_HRZZISLAND
-Ovo je repozitorij koji uključuje podatke i skripte za analizu kontinuiranih mjerenja svjetlosti u programskom jeziku R u sklopu radionice HRZZ projekta ISLAND: "Obrada kontinuiranih mjerenja u biološkoj oceanografiji".
+Ovo je repozitorij koji uključuje podatke i skripte za analizu kontinuiranih mjerenja svjetlosti u programskom jeziku R u sklopu radionice HRZZ projekta ISLAND: **"Obrada kontinuiranih mjerenja u biološkoj oceanografiji".**
 
 **Instalacija programskog jezika R:**
 https://cloud.r-project.org/
