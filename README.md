@@ -24,4 +24,14 @@ Otvoriti skriptu Paketi_instalacija.R, te pokrenuti naredbe "install.packages()"
 Učitavanje paketa će se odraditi na radionici. 
 Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate problema sa samostalnom instalacijom programa i/ili paketa.
 
-Rad na vlastitim podacima će biti omogućen, a uskoro će biti postavljeni i podaci na kojima ćemo raditi na radionici. 
+**Podaci**
+
+**Lastovo.zip**
+- csv. datoteke sa PAR (eng. photosynthetically active radiation) vrijednostima na 10 m i 40 m dubine. Mjerenja su uzimana u periodu od kraja srpnja do početka listopapa u 2022. godini na južnoj strani otoka Lastova (postaja Struga). Senzori su mjerili u intervalu od svakih 5 minuta. Ovaj set podataka biti će pokazni primjer kako pristupiti dugom nizu mjerenja. 
+
+  ![image](https://github.com/antonijamatek/radionica_HRZZ_ISLAND/assets/144710084/68dcc0f4-4aea-4730-a558-c7c7d5197a5d)
+ 
+**Zrmanja.zip** 
+- csv. datoteke sa vrijednostima intenziteta svjetlosti (LUX) na površini, 4 m i 8 m dubine. Mjerenja su uzimana u periodu od 30.04 do 03.05. 2024. godine. Iako su mjerenja uzimana u kraćem intervalu, ovaj set podataka biti će pokazni primjer kako prepoznati probleme/šumove u podacima i odrediti da li su podaci reprezentativni i prikladni za daljnje analize. Senzori su mjerili u intervalu od svake sekunde i svakih 5 minuta. 
+
+**Rad na vlastitim podacima je dobro došao :)**
