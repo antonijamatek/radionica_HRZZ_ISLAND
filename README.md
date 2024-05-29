@@ -32,6 +32,6 @@ Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate proble
   ![image](https://github.com/antonijamatek/radionica_HRZZ_ISLAND/assets/144710084/68dcc0f4-4aea-4730-a558-c7c7d5197a5d)
  
 **Zrmanja.zip** 
-- csv. datoteke sa vrijednostima intenziteta svjetlosti (LUX) na površini, 4 m i 8 m dubine. Mjerenja su uzimana u periodu od 30.04 do 03.05. 2024. godine. Iako su mjerenja uzimana u kraćem intervalu, ovaj set podataka biti će pokazni primjer kako prepoznati probleme/šumove u podacima i odrediti da li su podaci reprezentativni i prikladni za daljnje analize. Senzori su mjerili u intervalu od svake sekunde i svakih 5 minuta. 
+- csv. datoteke sa vrijednostima intenziteta svjetlosti (LUX) na površini, 4 m i 8 m dubine. Mjerenja su uzimana u periodu od 30.04 do 03.05. 2024. godine. Iako su mjerenja uzimana u kraćem periodu, ovaj set podataka biti će pokazni primjer kako prepoznati probleme/šumove u podacima i odrediti da li su podaci reprezentativni i prikladni za daljnje analize. Senzori su mjerili u intervalu od svake sekunde i svakih 5 minuta. 
 
 **Rad na vlastitim podacima je dobro došao :)**
