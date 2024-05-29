@@ -18,3 +18,8 @@ Pri instalaciji programskog jezika dobijete i skup osnovnih paketa za korištenj
 
 1. Paketi_instalacija.R - sve potrebne funkcije koje ćemo trebati pri analizi 
 2. Paketi_ucitavanje.R - naredbe za učitavanje instaliranih paketa prije početka rada
+
+Otvoriti skriptu Paketi_instalacija.R, te pokrenuti naredbe "install.packages()" klikom na ctrl + enter.
+
+Učitavanje paketa će se odraditi na radionici. 
+Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate problema sa samostalnom instalacijom programa i/ili paketa.
