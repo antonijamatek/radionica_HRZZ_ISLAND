@@ -23,3 +23,5 @@ Otvoriti skriptu Paketi_instalacija.R, te pokrenuti naredbe "install.packages()"
 
 Učitavanje paketa će se odraditi na radionici. 
 Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate problema sa samostalnom instalacijom programa i/ili paketa.
+
+Rad na vlastitim podacima će biti omogućen, a uskoro će biti postavljeni i podaci na kojima ćemo raditi na radionici. 
