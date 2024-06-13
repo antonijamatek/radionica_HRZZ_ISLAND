@@ -46,4 +46,19 @@ Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate proble
 
 2. LUX.zip: zip datoteka u kojoj se nalazi direktorij u kojem ćemo provoditi analizu tijekom radionice. U direktoriju nalaze se potrebne radne skripte i podaci.  
 
-3. PAR.zip: zip datoteka u kojoj se nalazi direktorij sa skriptama i podacima za provođenje analize dugog vremenskog niza PAR-a. Skripte sadrže potpuni kod te će sudionici imati pristup kodu i nakon radionice kako bi mogli samostalno vježbati i učiti, te primjeniti kod na vlastitim podacima. 
+3. PAR.zip: zip datoteka u kojoj se nalazi direktorij sa skriptama i podacima za provođenje analize dugog vremenskog niza PAR-a. Skripte sadrže potpuni kod te će sudionici imati pristup kodu i nakon radionice kako bi mogli samostalno vježbati i učiti, te primjeniti kod na vlastitim podacima.
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Bot"
+  given-names: "Hew"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "My Research Software"
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+date-released: 2017-12-18
+url: "https://github.com/github-linguist/ling 
