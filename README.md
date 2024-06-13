@@ -14,6 +14,15 @@ Paket je skup funkcija koji su grupirani zajedno radi lakšeg korištenja. Primj
 
 Pri instalaciji programskog jezika dobijete i skup osnovnih paketa za korištenje, te postoji mnogo dodatnih paketa koje možete naknadno instalirati.
 
+**Instalacija R tools**
+
+https://cran.r-project.org/bin/windows/Rtools/
+
+Izaberite RTools 4.4 za vašu verziju R-a koja bi trebala biti 4.4.0 ako ste ga upravo instalirali, ako već imate R od prije, provjerite verziju, i izaberite RTools za tu verziju.
+
+Zatim  ćete biti preusmjereni na stranicu https://cran.r-project.org/bin/windows/Rtools/rtools44/rtools.html i izaberete pod RTools for Windows "RTools44 installer" i biti ćete preusmjereni na instalaciju. 
+
+
 **Za instalaciju i učitavanje paketa potrebnih za rad na radionici preuzmite i pokrenite sljedeće skripte u R studiu:**
 
 1. Paketi_instalacija.R - sve potrebne funkcije koje ćemo trebati pri analizi 
