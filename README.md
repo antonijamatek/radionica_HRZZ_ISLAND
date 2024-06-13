@@ -38,6 +38,7 @@ Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate proble
 
 
 **RADNE SKRIPTE***
+
 .Rproj - projekt kojeg stvaramo unutar R sučelja kako bi sačuvali rad u svim skriptama koje koristimo
 .R - R skripta u kojoj se nalazi kod na kojem radimo
 
