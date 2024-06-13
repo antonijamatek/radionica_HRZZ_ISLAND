@@ -26,12 +26,21 @@ Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate proble
 
 **Podaci**
 
+**Zrmanja.zip** 
+- csv. datoteke sa vrijednostima intenziteta svjetlosti (LUX) na površini i 8 m dubine. Mjerenja su uzimana u periodu od 30.04 do 03.05. 2024. godine. Iako su mjerenja uzimana u kraćem periodu, ovaj set podataka biti će pokazni primjer kako prepoznati probleme/šumove u podacima i odrediti da li su podaci reprezentativni i prikladni za daljnje analize. Senzori su mjerili u intervalu od svake minute i svakih 5 minuta.
+
 **Lastovo.zip**
-- csv. datoteke sa PAR (eng. photosynthetically active radiation) vrijednostima na 10 m i 40 m dubine. Mjerenja su uzimana u periodu od kraja srpnja do početka listopapa u 2022. godini na južnoj strani otoka Lastova (postaja Struga). Senzori su mjerili u intervalu od svakih 5 minuta. Ovaj set podataka biti će pokazni primjer kako pristupiti dugom nizu mjerenja. 
+- csv. datoteke sa PAR (eng. photosynthetically active radiation) vrijednostima na 10 m i 40 m dubine. Mjerenja su uzimana u periodu od kraja srpnja do početka listopapa u 2022. godini na južnoj strani otoka Lastova (postaja Struga). Senzori su mjerili u intervalu od svakih 5 minuta. Ovaj set podataka je primjer dugog niza mjerenja. 
 
   ![image](https://github.com/antonijamatek/radionica_HRZZ_ISLAND/assets/144710084/68dcc0f4-4aea-4730-a558-c7c7d5197a5d)
- 
-**Zrmanja.zip** 
-- csv. datoteke sa vrijednostima intenziteta svjetlosti (LUX) na površini, 4 m i 8 m dubine. Mjerenja su uzimana u periodu od 30.04 do 03.05. 2024. godine. Iako su mjerenja uzimana u kraćem periodu, ovaj set podataka biti će pokazni primjer kako prepoznati probleme/šumove u podacima i odrediti da li su podaci reprezentativni i prikladni za daljnje analize. Senzori su mjerili u intervalu od svake sekunde i svakih 5 minuta. 
 
 **Rad na vlastitim podacima je dobro došao :)**
+
+
+**RADNE SKRIPTE***
+.Rproj - projekt kojeg stvaramo unutar R sučelja kako bi sačuvali rad u svim skriptama koje koristimo
+.R - R skripta u kojoj se nalazi kod na kojem radimo
+
+Uvod u R.zip : zip datoteka sastoji se od dva file - a: Uvod u R.Rproj i osnovne radnje u R-u.R. U ovom dijelu se upoznajemo sa osnovama strukture podataka i pridruživanja varijabli unutar sučelja R Studio
+LUX.zip: zip datoteka u kojoj se nalazi direktorij u kojem ćemo provoditi analizu tijekom radionice. U direktoriju nalaze se potrebne radne skripte i podaci.  
+PAR.zip: zip datoteka u kojoj se nalazi direktorij sa skriptama i podacima za provođenje analize dugog vremenskog niza PAR-a. Skripte sadrže potpuni kod te će sudionici imati pristup kodu i nakon radionice kako bi mogli samostalno vježbati i učiti, te primjeniti kod na vlastitim podacima. 
