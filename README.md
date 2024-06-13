@@ -41,6 +41,8 @@ Također, cijeli proces ćemo ponoviti i na samoj radionici ukoliko imate proble
 .Rproj - projekt kojeg stvaramo unutar R sučelja kako bi sačuvali rad u svim skriptama koje koristimo
 .R - R skripta u kojoj se nalazi kod na kojem radimo
 
-Uvod u R.zip : zip datoteka sastoji se od dva file - a: Uvod u R.Rproj i osnovne radnje u R-u.R. U ovom dijelu se upoznajemo sa osnovama strukture podataka i pridruživanja varijabli unutar sučelja R Studio
-LUX.zip: zip datoteka u kojoj se nalazi direktorij u kojem ćemo provoditi analizu tijekom radionice. U direktoriju nalaze se potrebne radne skripte i podaci.  
-PAR.zip: zip datoteka u kojoj se nalazi direktorij sa skriptama i podacima za provođenje analize dugog vremenskog niza PAR-a. Skripte sadrže potpuni kod te će sudionici imati pristup kodu i nakon radionice kako bi mogli samostalno vježbati i učiti, te primjeniti kod na vlastitim podacima. 
+-Uvod u R.zip : zip datoteka sastoji se od dva file - a: Uvod u R.Rproj i osnovne radnje u R-u.R. U ovom dijelu se upoznajemo sa osnovama strukture podataka i pridruživanja varijabli unutar sučelja R Studio
+
+-LUX.zip: zip datoteka u kojoj se nalazi direktorij u kojem ćemo provoditi analizu tijekom radionice. U direktoriju nalaze se potrebne radne skripte i podaci.  
+
+-PAR.zip: zip datoteka u kojoj se nalazi direktorij sa skriptama i podacima za provođenje analize dugog vremenskog niza PAR-a. Skripte sadrže potpuni kod te će sudionici imati pristup kodu i nakon radionice kako bi mogli samostalno vježbati i učiti, te primjeniti kod na vlastitim podacima. 
